@@ -1,0 +1,2 @@
+# rootme-writeup
+easy machine
